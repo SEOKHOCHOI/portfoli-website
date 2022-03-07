@@ -11,28 +11,28 @@ const projects = [
     image: IMG1,
     title: "MeetUp",
     github: "https://github.com/SEOKHOCHOI/MeetUp",
-    demo: "https://github.com/SEOKHOCHOI/MeetUp",
+    demo: "https://youtu.be/IFjPYp3Kngs",
   },
   {
     id: 2,
     image: IMG2,
     title: "BookShop",
     github: "https://github.com/SEOKHOCHOI/kh-books",
-    demo: "https://github.com/SEOKHOCHOI/kh-books",
+    demo: "https://youtu.be/6eToTWvhzWU",
   },
   {
     id: 3,
     image: IMG3,
     title: "Accessory Shop",
     github: "https://github.com/SEOKHOCHOI/shop",
-    demo: "https://github.com/SEOKHOCHOI/shop",
+    demo: "https://youtu.be/V5LebeCGHLA",
   },
   {
     id: 4,
     image: IMG4,
     title: "Instagram",
     github: "https://github.com/SEOKHOCHOI/instagram",
-    demo: "https://github.com/SEOKHOCHOI/instagram",
+    demo: "https://bit.ly/3rUM1g0",
   },
 ];
 
